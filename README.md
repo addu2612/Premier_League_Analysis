@@ -37,4 +37,4 @@ The analysis places a particular emphasis on the 2007-08 season. This season was
 
 ## Next Steps
 
-This README provides an overview of the analysis, tools used, and key steps taken. Further details and insights can be found in the project files and notebooks.
+This README provides an overview of the analysis, tools used, and key steps taken. Further details and insights can be found in the project notebook.
