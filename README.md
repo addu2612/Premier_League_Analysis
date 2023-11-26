@@ -4,7 +4,7 @@
 
 This project focuses on analyzing two datasets, namely 'results' and 'stats,' covering the Premier League seasons from 2006-07 to 2017-18. The primary objective is to gain insights into team performance, statistics, and notable achievements during this period.
 
-## Tools Used I've used
+## Tools I've used
 
 - **Pandas:** Employed for data manipulation tasks, such as filtering, grouping, and aggregating data, facilitating a detailed analysis.
 
